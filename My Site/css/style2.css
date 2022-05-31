@@ -1,0 +1,11 @@
+body{
+  margin-left: 0;
+  text-align: center;
+  background-color: black;
+  background-image: url(../images/behind.png);
+}
+h1{
+  color: #660000;
+  font-size: 100px;
+  font-family: 'Nosifer', cursive;
+}
